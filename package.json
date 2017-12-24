@@ -13,13 +13,13 @@
   ],
   "homepage": "https://startbootstrap.com/template-overviews/coming-soon",
   "bugs": {
-    "url": "",
-    "email": ""
+    "url": "https://github.com/BlackrockDigital/startbootstrap-coming-soon/issues",
+    "email": "feedback@startbootstrap.com"
   },
   "license": "MIT",
   "author": "Start Bootstrap",
   "contributors": [
-    "David Miller (https://faishall.github.io/)"
+    "David Miller (http://davidmiller.io/)"
   ],
   "repository": {
     "type": "git",
