@@ -1,7 +1,3 @@
-# [Start Bootstrap - Profile](https://startbootstrap.com/faishall/)
+# [Web doang](https://faishall.github.io/)
 
-
-
-## Copyright and License
-
-Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/faishall) license.
+## faishall saja
