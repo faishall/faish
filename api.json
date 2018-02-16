@@ -1,0 +1,54 @@
+{
+    "status": true,
+    "profile": {
+        "id": 1,
+        "nama": "Faishal Abrari",
+        "alamat": "Prajekan Bondowoso Jatim",
+        "email": "faishalabrari@gmail.com",
+        "deskripsi": "Santi saja",
+        "kata": "I do... What I love to do..."
+    },
+    "skil": [
+        {
+            "id": 1,
+            "skill": "PHP",
+            "deskrip": "PHP adalah bahasa pemrograman script server-side yang didesain untuk pengembangan web. Selain itu, PHP juga bisa digunakan sebagai bahasa pemrograman umum",
+            "foto": "fishal1.png"
+        },
+        {
+            "id": 2,
+            "skill": "Node Js",
+            "deskrip": "ava adalah bahasa pemrograman tingkat tinggi yang berorientasi objek dan program java tersusun dari bagian yang disebut kelas. Kelas terdiri atas metode-metode yang melakukan pekerjaan dan mengembalikan informasi setelah melakukan tugasnya.",
+            "foto": "faishal2.png"
+        },
+        {
+            "id": 3,
+            "skill": "HTML",
+            "deskrip": "Node.js adalah perangkat lunak yang didesain untuk mengembangkan aplikasi berbasis web dan ditulis dalam sintaks bahasa pemrograman JavaScript.",
+            "foto": "faishal3.png"
+        },
+        {
+            "id": 4,
+            "skill": "Photosop",
+            "deskrip": "photosop adalah belum tahu",
+            "foto": "faishal5.png"
+        },
+        {
+            "id": 5,
+            "skill": "Anrdroid Studio",
+            "deskrip": "kernenn okoknya ",
+            "foto": "faishal4.png"
+        },
+        {
+            "id": 6,
+            "skill": "Java",
+            "deskrip": "java program",
+            "foto": "faishal6.png"
+        }
+    ],
+    "media": {
+        "facebook": "faishal.abr",
+        "twitter": "faishalabrari",
+        "google": ""
+    }
+}
